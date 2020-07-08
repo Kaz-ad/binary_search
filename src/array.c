@@ -20,7 +20,7 @@ int main(){
     else
       lb = mid;
   }
-printf ("% d \n" , ub);
+printf ("%d\n" , ub);
 
 
   return 0;
